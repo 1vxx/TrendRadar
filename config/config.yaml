@@ -122,6 +122,10 @@ weight:
 
 platforms:
   # === 社交/短视频/娱乐类 ===
+  - id: "baidu"
+    name: "百度热搜"
+  - id: "toutiao"
+    name: "今日头条"
   - id: "weibo"
     name: "微博"
   - id: "douyin"
